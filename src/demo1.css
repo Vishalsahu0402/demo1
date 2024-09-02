@@ -1,5 +1,6 @@
 .font_size
 {
     font-size: 10px;
-    color: red;
+    color: blue;
+    font-weight: 400;
 }
